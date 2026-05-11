@@ -4,22 +4,6 @@ The application provides
 2.real-time communication, 
 3.message storage, and 
 4.a clean responsive user interface similar to modern messaging platforms.
-Project Structure
-chat-app/
-│
-├── backend/
-│   ├── config/
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── server.js
-│   └── .env
-│
-└── frontend/
-    ├── src/
-    │   ├── components/
-    │   ├── App.js
-    │   └── App.css
 
 
 Real time communication flow
